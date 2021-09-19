@@ -45,6 +45,7 @@
 		77825FDD26EE6F7100464149 /* ClockAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClockAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		77825FE126EE6F7100464149 /* ClockAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockAppUITests.swift; sourceTree = "<group>"; };
 		77825FE326EE6F7100464149 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77825FEF26F7486600464149 /* PrivacyPolicy.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = PrivacyPolicy.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		77825FB826EE6F6F00464149 = {
 			isa = PBXGroup;
 			children = (
+				77825FEF26F7486600464149 /* PrivacyPolicy.md */,
 				77825FC326EE6F7000464149 /* ClockApp */,
 				77825FD526EE6F7100464149 /* ClockAppTests */,
 				77825FE026EE6F7100464149 /* ClockAppUITests */,
